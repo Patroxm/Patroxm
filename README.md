@@ -1,8 +1,8 @@
 
-## 🌐 Socials:
+## 🌐 Contatos:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/patroxm) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/patroxm) 
 
-# 💻 Tech Stack:
+# 💻 Linguagens:
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Patroxm&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false)<br/>
